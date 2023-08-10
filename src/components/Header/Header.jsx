@@ -9,14 +9,13 @@ const Header = () => {
 
 
                 <div className="flexCenter h-menu">
-                    <a href="">
+                    <a href="#residencies">
                         Residencies
                     </a>
-                    <a href="">Our Values</a>
-                    <a href="">Contact</a>
-                    <a href="">Get Started</a>
+                    <a href="#our-values">Our Values</a>
+                    <a href="#get-started">Get Started</a>
                     <button className="button">
-                    <a href="">Contact</a>
+                    <a href="#contact">Contact</a>
                     </button>
                 </div>
             </div>

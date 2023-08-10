@@ -11,8 +11,8 @@ const Footer = () => {
                     <span className="secondaryText">Our vison is to make all people <br /> the best place to live for them</span>
                 </div>
                 <div className="flexColStart f-right">
-                    <span className='primaryText'>Information</span>
-                    <span className='secondaryText'>145 New York, FL 4571, USA</span>
+                    <span className='primaryText'>Office Location</span>
+                    <span className='secondaryText'>321 Bengaluru Street,Bangalore, Karnataka, India</span>
 
                     <div className="flexCenter f-menu">
                         <span>Residencies</span>
